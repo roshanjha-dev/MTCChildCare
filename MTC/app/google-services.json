@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "358392622021",
+    "firebase_url": "https://mtc2-master.firebaseio.com",
+    "project_id": "mtc2-master",
+    "storage_bucket": "mtc2-master.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358392622021:android:18c19d8576eff3e9",
+        "android_client_info": {
+          "package_name": "com.sulitous.mtc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "358392622021-3ibtoaqu1rj4mhqst5k0i4t21shg2349.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sulitous.mtc",
+            "certificate_hash": "1a0313427f51f29ece8ae8bf56ec944454446e25"
+          }
+        },
+        {
+          "client_id": "358392622021-4e56gcrgrnp08a2jhtl6dslf0mfj21ka.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXgJ4wCTZT0r4Iwj7_hxxRSSlyx1Xga04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "358392622021-4e56gcrgrnp08a2jhtl6dslf0mfj21ka.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="block">
+        <item>Bermo</item>
+        <item>Chas</item>
+        <item>Chandankiyari</item>
+        <item>Chandrapura</item>
+        <item>Gomia</item>
+        <item>Jadridih</item>
+        <item>Kasmar</item>
+        <item>Nawadih</item>
+        <item>Petarwar</item>
+    </array>
+</resources>

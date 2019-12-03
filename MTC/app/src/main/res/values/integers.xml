@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="max_lines">2</integer>
+    <integer name="phone_limit">10</integer>
+    <integer name="thrash_hold">1</integer>
+</resources>
